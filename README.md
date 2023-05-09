@@ -5,13 +5,20 @@ STM32 CUSTOM BOARD
 
 ![Annotation 2023-05-09 154116](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/91af2e0e-3686-4cb3-ad68-726e464c2c3a)
 
-                           **__This reppository contains hardware files of STM32F4 custom board__**
+This reppository contains hardware files of STM32F4 custom board
 
-PROJECT INFO:
-STM32F411XX based custom microcontroller boaord.
-STM32F411XX is 100MHz operating frequency high performance chip/microcontroller.
-with 30GPIO's pins with timers,I2C ,SPI ,USART ,and many more functionality. 
-this board is designed for general purpose projects.
+## features
+__
+* small board with 4.2*3 cm .
+* Two layer board for general purpose .
+* stm32f4 serial high speed microcontroller is used .
+* all general purpose input/outpur are pesesnt on board .
+* communication protocols (I2C , SPI , USART).
+* power supply can be done by two ways 
+  * usb b micro (mobile charger).
+  * Vin/GND pin. 
+  * SWD (only while programming and dubbuging).
+* On board LED indications for power/builtIN.
 
 SPECIFICTIONS:
 Core: Arm® 32-bit Cortex®-M4 CPU with FPU
