@@ -5,7 +5,7 @@ STM32 CUSTOM BOARD
 
 ![Annotation 2023-05-09 154116](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/91af2e0e-3686-4cb3-ad68-726e464c2c3a)
 
-**__This reppository contains hardware files of STM32F4 custom board__**
+                           **__This reppository contains hardware files of STM32F4 custom board__**
 
 PROJECT INFO:
 STM32F411XX based custom microcontroller boaord.
