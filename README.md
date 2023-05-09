@@ -11,7 +11,11 @@ This reppository contains hardware files of STM32F4 custom board
 __
 * small board with 4.2*3 cm .
 * Two layer board for general purpose .
-* stm32f4 serial high speed microcontroller is used .
+* stm32f4 serial high speed microcontroller is used.
+  * Arm® 32-bit Cortex®-M4 CPU with FPU
+  * frequency up to 100 MHz
+  * Up to 512 Kbytes of Flash memory
+  * 128 Kbytes of SRAM
 * all general purpose input/outpur are pesesnt on board .
 * communication protocols (I2C , SPI , USART).
 * power supply can be done by two ways 
@@ -20,13 +24,9 @@ __
   * SWD (only while programming and dubbuging).
 * On board LED indications for power/builtIN.
 
-SPECIFICTIONS:
-Core: Arm® 32-bit Cortex®-M4 CPU with FPU
-frequency up to 100 MHz
-Up to 512 Kbytes of Flash memory
-128 Kbytes of SRAM
-memory protection unit
-DSP instructions etc
+
+Core: 
+
 
 PCB design:
 
