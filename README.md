@@ -31,7 +31,15 @@ pcb layout:
 
 3D:
 
-![image](https://user-images.githubusercontent.com/114358863/234606130-634d147b-cd75-40c8-b3eb-83cb802a7901.png)
+TOP :
+
+![Annotation 2023-05-09 160028](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/0e6dfb13-3800-4e06-9abc-e687a0b67de2)
+
+BOTTOM:
+
+![Annotation 2023-05-09 160055](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/4d20824a-e046-4578-b448-7820602f1805)
+
+
 
 
 stm32cubeIDE :
