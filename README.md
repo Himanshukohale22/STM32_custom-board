@@ -1,4 +1,4 @@
-# STM32_custom-board
+# **STM32 CUSTOM BOARD**
 
 
 STM32 CUSTOM BOARD
