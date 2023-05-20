@@ -46,7 +46,8 @@ TOP :
 
 BOTTOM:
 
-![Annotation 2023-05-09 160055](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/4d20824a-e046-4578-b448-7820602f1805)
+![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/d92e8724-8a93-4f24-81e4-d078de0d1e4e)
+
 
 
 
