@@ -50,19 +50,6 @@ BOTTOM:
 
 
 
-
-
-stm32cubeIDE :
-builtin LED is on/off here in this code
-
-![image](https://user-images.githubusercontent.com/114358863/234609240-fb28760f-4709-4edb-8425-5ed2825daaa2.png)
-
-output terminal :
-check for errors as in every IDE shows.
-
-![image](https://user-images.githubusercontent.com/114358863/234609488-7a1d2d0f-7cf7-4e97-8335-06a9a4dfce41.png)
-
-
 USED TOOLS:
 
 PCB DESIGN:
