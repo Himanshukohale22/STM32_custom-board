@@ -1,6 +1,5 @@
 # **STM32 CUSTOM BOARD**
 
-
 STM32 CUSTOM BOARD
 
 ![Annotation 2023-05-09 154116](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/91af2e0e-3686-4cb3-ad68-726e464c2c3a)
@@ -25,10 +24,8 @@ __
 * On board LED indications for power/builtIN.
 
 
-Core: 
-
-
 PCB design:
+-- 
 
 scematics :
 
@@ -51,6 +48,7 @@ BOTTOM:
 
 
 USED TOOLS:
+--
 
 PCB DESIGN:
 https://www.kicad.org/
