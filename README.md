@@ -2,7 +2,8 @@
 
 STM32 CUSTOM BOARD
 
-![Annotation 2023-05-09 154116](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/91af2e0e-3686-4cb3-ad68-726e464c2c3a)
+![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/b8c3875a-a2f6-4315-9b6a-15810e0a2041)
+
 
 This reppository contains hardware files of STM32F4 custom board
 
@@ -31,19 +32,21 @@ scematics :
 
 ![image](https://user-images.githubusercontent.com/114358863/234605871-0e4f560f-c48f-4a83-9601-c5af94cf9cb6.png)
 
-pcb layout:
 
-![image](https://user-images.githubusercontent.com/114358863/234606032-b25f9fb5-4fee-44ab-b578-65eb21d013d8.png)
 
 3D:
 
 TOP :
 
-![Annotation 2023-05-09 160028](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/0e6dfb13-3800-4e06-9abc-e687a0b67de2)
+![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/68536204-e3cb-4928-a450-350abdb34e50)
+
+
 
 BOTTOM:
 
-![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/d92e8724-8a93-4f24-81e4-d078de0d1e4e)
+![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/ffa31d4f-fdea-4e3d-818c-f13ea9ec76cf)
+
+
 
 
 
