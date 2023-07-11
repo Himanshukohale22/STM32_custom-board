@@ -30,7 +30,8 @@ PCB design:
 
 scematics :
 
-![image](https://user-images.githubusercontent.com/114358863/234605871-0e4f560f-c48f-4a83-9601-c5af94cf9cb6.png)
+![image](https://github.com/Himanshukohale22/STM32_custom-board/assets/114358863/b927d837-65ed-4bf5-be3e-78b5a874f7e4)
+
 
 
 
