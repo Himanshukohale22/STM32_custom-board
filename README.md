@@ -49,19 +49,13 @@ BOTTOM:
 
 
 
-
-
-USED TOOLS:
+TOOLS & REFERENCE:
 --
-
-PCB DESIGN:
 
 [kicad](https://www.kicad.org/)
 
 [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-REFERENCE:
---
 [STM32f411xc](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 
 
