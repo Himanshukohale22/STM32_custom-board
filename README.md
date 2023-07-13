@@ -55,16 +55,13 @@ USED TOOLS:
 --
 
 PCB DESIGN:
-https://www.kicad.org/
+[kicad](https://www.kicad.org/)
 
-PROGRAMMING AND DEBUGGING:
+[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-STM32CubeIDE
-https://www.st.com/en/development-tools/stm32cubeide.html
-
-DATASHEET:
-STM32f411xc
-https://www.st.com/resource/en/datasheet/stm32f411re.pdf
+REFERENCE:
+--
+[STM32f411xc](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 
 
 
