@@ -55,6 +55,7 @@ USED TOOLS:
 --
 
 PCB DESIGN:
+
 [kicad](https://www.kicad.org/)
 
 [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
